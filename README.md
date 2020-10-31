@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Learn Golang!
 - ⚡ Fun fact: I'm Valorant & CS:GO Player ⚡
 
-## I Like Dino Chrome :D
+## You like to Watch Dino Chrome? 🤣
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -67,7 +67,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.jrdnhnz.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
+  <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
 
 </details>
 
