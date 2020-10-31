@@ -60,6 +60,11 @@
 
 ---
 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📕 Latest Writeup Posts
 
@@ -67,11 +72,6 @@
 - [Bug Hunting Timeline - GPLinks.in](https://medium.com/@jrdnhnz/penemuan-celah-pada-website-gplinks-in-7d6727c096ae)
 <!-- BLOG-POST-LIST:END -->
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 [website]: https://jrdnhnz.org
 [instagram]: https://instagram.com/jrdnhnz
