@@ -13,6 +13,15 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
+
+</details>
+
 ### Spotify Playing 🎧
 
 <img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="JrdnHnz Spotify Playing" width="350" />(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -63,13 +72,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://jrdnhnz.org
 [instagram]: https://instagram.com/jrdnhnz
