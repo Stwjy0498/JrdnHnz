@@ -15,16 +15,16 @@
 
 ---
 
-<details>
+## You like to Watch Dino Chrome?
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
 
-</details>
+---
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="JrdnHnz Spotify Playing" width="350" />(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="JrdnHnz Spotify Playing" width="350" />
 
 ### Connect with me:
 
