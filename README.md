@@ -15,8 +15,7 @@
 
 ---
 
-## You like to Watch Dino Chrome?
-  <summary>:zap: GitHub Stats</summary>
+## Github Stats
 
   <img align="left" alt="jrdnhnz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrdnhnz&show_icons=true&hide_border=true" />
 
