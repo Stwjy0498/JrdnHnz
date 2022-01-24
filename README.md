@@ -22,9 +22,8 @@
 
 ---
 
-### Spotify Playing 🎧
 
-<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="JrdnHnz Spotify Playing" width="350" />
+
 
 ### Connect with me:
 
